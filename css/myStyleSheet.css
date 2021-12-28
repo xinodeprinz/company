@@ -1,0 +1,96 @@
+.icon{
+    font-size:50px;
+  }
+  .white{
+    color: white;
+  }
+  .nde{
+    background: white;
+    border: 100%;
+    border-radius: 100%;
+  }
+  #education, #fliers{
+    background: grey;
+  }
+  .word{
+    text-align: center;
+  }
+  #education h4, #education i{
+    font-weight: bold;
+  }
+  #templates, #staff{
+    background: #345a;
+  }
+  #education, #templates, #fliers, #staff, #subscribe, #contact{
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .crh{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  #subscribe{
+    background: radial-gradient(ellipse,silver,grey,#35424a);
+  }
+  #subscribe input[type="submit"]{
+    margin-top: 5px;
+  }
+  .bout{
+    background: url('../images/my_log.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+  }
+  .bold{
+    font-weight: bold;
+  }
+  .body{
+    margin-top: 51px;
+  }
+
+  .bg-dark{
+    background:#35424a;
+    color:white;
+  }
+.navbar a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.navbar a:hover{
+  color: #35424a;
+}
+.navbar-brand{
+  font-weight: bold;
+}
+@media(max-width:750px){
+  .cont{
+    width:100%;
+    border:0;
+  }
+}
+ 
+  a, a:hover{
+    text-decoration: none;
+    color: white;
+  }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
